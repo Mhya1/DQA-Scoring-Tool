@@ -18,12 +18,6 @@ Field MEAL officers, M&E assistants, and programme managers can use this tool to
 
 ---
 
-## Screenshot
-
-> *(Add a screenshot of the Results page here)*
-
----
-
 ## Data Quality Dimensions Covered
 
 | Dimension | Questions | Focus |
